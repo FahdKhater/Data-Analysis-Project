@@ -11,7 +11,7 @@ This project investigates the relationship between the cost of accommodation (Ai
 
 ## 📂 Dataset
 The analysis is based on two datasets:
-1.  **`airbnb_scraped_dataset.csv`**: Contains raw listing data (Price, City, Room Type) for various international cities.
+1.  **`airbnb_scraped_dataset.csv`**: Contains scraped listing data (Price, City, ratings) for various international cities.
 2.  **`Travel_Satisfaction_Index.csv`**: Contains the `Travel_Score` (Satisfaction Index) for corresponding cities.
 
 ## 🛠️ Technologies Used
