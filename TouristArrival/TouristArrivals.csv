@@ -1,18 +1,15 @@
-International Tourist Arrivals (Millions),City
-30.3,Bangkok
-22.7,London
-19.7,Istanbul
-18.3,Paris
-30.3,Bangkok
-22.7,London
-19.7,Istanbul
-18.3,Paris
-15.4,Tokyo
-14.6,Barcelona
-14.0,Rome
-12.2,Amsterdam
-10.6,Venice
-3.6,Los Angeles
-3.2,Rio de Janeiro
-2.5,Cairo
-2.5,Sydney
+City,International Tourist Arrivals (Millions)
+Bangkok,30.3
+London,22.7
+Istanbul,19.7
+Paris,18.3
+New York,16.4
+Tokyo,15.4
+Barcelona,14.6
+Rome,14.0
+Amsterdam,12.2
+Venice,10.6
+Los Angeles,3.6
+Rio de Janeiro,3.2
+Cairo,2.5
+Sydney,2.5
